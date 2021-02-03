@@ -10,4 +10,4 @@ Hello There, Welcome To This Awesome Repository On Object Oriented Programming I
 
 **CONSIDER STARRING THIS REPOSITORY AND PUT A WATCHING ON IT FOR LATEST UPDATES.**
 
-![WUP]("https://github.com/aryashah2k/OOP-In-CPlusPlus/blob/main/assets/download.png")
+![WUP](https://github.com/aryashah2k/OOP-In-CPlusPlus/blob/main/assets/download.png)
