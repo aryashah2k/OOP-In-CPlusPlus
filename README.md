@@ -32,6 +32,11 @@ Hello There, Welcome To This Awesome Repository On Object Oriented Programming I
 |7.|File_Handling_in_C++|To Be Added Soon|
 |---|---|---|
 
+# Helpful Resources
+
+|No.|Resource Name|Link To View|
+|--|-----|------|
+|1.|------|To Be Added Soon|
 
 #P.S: The Repository Is Newly Created And Under Heavy Construction!!
 
