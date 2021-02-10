@@ -35,7 +35,7 @@ Hello There, Welcome To This Awesome Repository On Object Oriented Programming I
 ### Solution Manual [Code + Theory]
 
 |No.|Book Title|Author|Link To View|
-|--|-----|------|
+|--|-----|------|----|
 |1.|Object Oriented Programming in C++|E Balagurusamy|To Be Added Soon|
 |2.|---|---|To Be Added Soon|
 
