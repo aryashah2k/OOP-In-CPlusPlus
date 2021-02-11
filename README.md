@@ -19,7 +19,7 @@ Hello There, Welcome To This Awesome Repository On Object Oriented Programming I
 |--|-----|------|
 |1.|Concise Recap Of C Language|<a href="https://github.com/aryashah2k/OOP-In-CPlusPlus/tree/main/1.%20Concise%20Recap%20Of%20C%20Language">Click To View</a>|
 |---|---|---|
-|2.|Some Differences Between C and C++|<a href="">Click To View</a>|
+|2.|Some Differences Between C and C++|<a href="https://github.com/aryashah2k/OOP-In-CPlusPlus/tree/main/2.%20Some%20Differences%20Between%20C%20and%20C%2B%2B">Click To View</a>|
 |---|---|---|
 |3.|Fundamentals of Object Oriented Programming|<a href="">Click To View</a>|
 |---|---|---|
