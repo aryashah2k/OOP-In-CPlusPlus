@@ -45,8 +45,3 @@ Hello There, Welcome To This Awesome Repository On Object Oriented Programming I
 |--|-----|------|
 |1.|------|To Be Added Soon|
 
-#P.S: The Repository Is Newly Created And Under Heavy Construction!!
-
-**CONSIDER STARRING THIS REPOSITORY AND PUT A WATCHING ON IT FOR LATEST UPDATES.**
-
-![WUP](https://github.com/aryashah2k/OOP-In-CPlusPlus/blob/main/assets/download.png)
