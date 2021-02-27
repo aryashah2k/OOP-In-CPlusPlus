@@ -27,9 +27,9 @@ Hello There, Welcome To This Awesome Repository On Object Oriented Programming I
 |---|---|---|
 |5.|Operator Overloading and Inheritance|<a href="https://github.com/aryashah2k/OOP-In-CPlusPlus/tree/main/5.%20Operator%20Overloading%20and%20Inheritance">Click To View</a>|
 |---|---|---|
-|6.|Generic Programming|<a href="">Click To View</a>|
+|6.|Generic Programming|<a href="https://github.com/aryashah2k/OOP-In-CPlusPlus/tree/main/6.%20Generic%20Programming">Click To View</a>|
 |---|---|---|
-|7.|File_Handling_in_C++|<a href="">Click To View</a>|
+|7.|File_Handling_in_C++|<a href="https://github.com/aryashah2k/OOP-In-CPlusPlus/tree/main/7.%20File%20Handling%20in%20C%2B%2B">Click To View</a>|
 |---|---|---|
 
 ### Solution Manual [Code + Theory]
