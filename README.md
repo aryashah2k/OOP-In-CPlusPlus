@@ -38,7 +38,7 @@ Hello There, Welcome To This Awesome Repository On Object Oriented Programming I
 
 |No.|Book Title|Author|Link To View|
 |--|-----|------|----|
-|1.|Object Oriented Programming in C++|E Balagurusamy|<a href="">Click To View</a>|
+|1.|Object Oriented Programming in C++|E Balagurusamy|<a href="https://github.com/aryashah2k/OOP-In-CPlusPlus/tree/main/Solution%20Manual%20-%20OOP%20in%20C%2B%2B%20by%20E%20Balaguruswamy">Click To View</a>|
 |2.|---|---|To Be Added Soon|
 
 # Helpful Resources
