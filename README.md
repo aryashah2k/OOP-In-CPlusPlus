@@ -30,6 +30,9 @@ Hello There, Welcome To This Awesome Repository On Object Oriented Programming I
 |⭐|Unit 6 Lab Programs[Code + Theory]|<a href="https://github.com/aryashah2k/OOP-In-CPlusPlus/tree/main/6.%20Generic%20Programming/Lab%206%20Programs%20%5BCode%20Plus%20Theory%5D">Click To View</a>|
 |7.|File Handling in C++|<a href="https://github.com/aryashah2k/OOP-In-CPlusPlus/tree/main/7.%20File%20Handling%20in%20C%2B%2B">Click To View</a>|
 |⭐|Unit 7 Lab Programs[Code + Theory]|<a href="https://github.com/aryashah2k/OOP-In-CPlusPlus/tree/main/7.%20File%20Handling%20in%20C%2B%2B">Click To View</a>|
+|8.|Exception Handling|<a href="">Click To View</a>|
+|⭐|Unit 8 Lab Programs[Code + Theory]|<a href="">Click To View</a>|
+
 
 ### Solution Manual [Code + Theory]
 
